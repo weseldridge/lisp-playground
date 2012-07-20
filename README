@@ -1,0 +1,8 @@
+lisp-playground is a side project I am using to become better at lisp. A list of the available procedures 
+directories are listed below along with a short discription.
+
+/math-procedures
+This folder holds procedures relavent to common math problems.
+
+/physics-procedures
+Houses physics procedures used to calculate answers to basic physics problems.
